@@ -1,6 +1,6 @@
 # A* Pathfinding Visualizer & Maze Generator
 
-An interactive desktop application built in Python that visualizes the A* search algorithm and generates perfect mazes using Recursive Backtracking. 
+An interactive desktop application built in Python that visualizes the A* search algorithm and generates perfect mazes. 
 
 ![A Star Pathfinding Demo](show.gif)
 
@@ -8,7 +8,7 @@ An interactive desktop application built in Python that visualizes the A* search
 * **A* Pathfinding:** Visualizes the shortest path between two points, factoring in orthogonal and diagonal movement using Euclidean heuristics.
 * **Procedural Maze Generation:** Press `M` to instantly generate a perfect maze using the Recursive Backtracking (Depth-First Search) algorithm.
 * **Interactive Grid:** Draw walls with left-click, erase with right-click, and clear paths while keeping walls intact for continuous testing.
-* **Modern UI:** Built with an object-oriented architecture and a sleek dark-mode aesthetic.
+* **Modern UI:** Built with an object-oriented architecture and a sleek dark-mode look.
 
 ## Controls
 * **Left Click:** Place Start Node, End Node, or Walls.
